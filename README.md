@@ -1,4 +1,4 @@
-# CNAPP Dashboard Clone - React.js
+# CNAPP Dashboard - React.js
 
 It includes dynamic widgets such as:
 - Pie Charts (Cloud Accounts, Risk Assessment)
