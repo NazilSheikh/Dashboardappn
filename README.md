@@ -43,5 +43,7 @@ Navigate to the project folder and run:
 npm install
 
 4️⃣ Start Development Server
-npm start
+
+npm run dev
+
 Open browser → Visit http://localhost:3000
